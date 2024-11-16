@@ -1,4 +1,4 @@
-使用该面板时，注意要修改缺省的UUID、面板管理用户admin的密码，以及proxyIP的域名，还有TrojanPasswrd的值，以防止被别人盗用。更保险的是把图标“💦”换成其他的个性化的，防止别人搜索到通用的图标。
+使用该面板时，注意要修改缺省的UUID、面板管理用户admin的密码，以及proxyIP的域名，还有TrojanPasswrd的值，以防止被别人盗用。更保险的是把图标“💦”换成其他的个性化的图标，防止别人搜索到通用的图标。
 <h1 align="center">💦 BPB Panel</h1>
 
 ### 🌏 Readme in [Farsi](README_fa.md)
